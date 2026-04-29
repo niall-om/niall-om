@@ -48,4 +48,4 @@ Background in electronic engineering and telecoms, with recent work in product a
 
 ## 📫 Get in touch
 
-- GitHub: https://github.com/niallomahony
+- GitHub: https://github.com/niall-om
