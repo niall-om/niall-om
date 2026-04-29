@@ -42,7 +42,7 @@ Ongoing work on core data structures and algorithms.
 
 ## 📈 Background
 
-My background is in engineering and product, and I’m now focused on developing strong software engineering fundamentals and building systems end-to-end.
+Background in electronic engineering and telecoms, with recent work in product analytics and data science. Now focused on developing strong software engineering fundamentals and building systems end-to-end.
 
 ---
 
